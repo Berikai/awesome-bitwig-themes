@@ -2,6 +2,10 @@
 
 This repository is a collection of Bitwig Studio themes that is made with [Bitwig Theme Editor](https://github.com/Berikai/bitwig-theme-editor)
 
+## Contribution
+
+You can create a pull request or create an issue with your github repository to add your theme to this list.
+
 ## [Ghosty](https://github.com/notoyz/ghosty-theme-bitwig) by [@notoyz](https://github.com/notoyz)
 <img src="https://github.com/notoyz/ghosty-theme-bitwig/blob/main/extra/screenshots/dark.png" alt="Ghosty" width="768"/>
 
