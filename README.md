@@ -18,3 +18,5 @@ You can create a pull request or create an issue with your github repository to 
 ## [Dark Red](https://github.com/Berikai/bitwig-theme-editor/tree/master/themes) by [@berikai](https://github.com/berikai)
 <img src="https://github.com/Berikai/bitwig-theme-editor/blob/master/themes/dark_red.png" alt="Dark Red" width="768"/>
 
+## [GruvBit](https://github.com/stianfan/GruvBit) by [@stianfan](https://github.com/stianfan)
+<img src="https://github.com/stianfan/GruvBit/raw/main/Screenshot.png" alt="GruvBit" width="768"/>
