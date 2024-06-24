@@ -20,3 +20,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [GruvBit](https://github.com/stianfan/GruvBit) by [@stianfan](https://github.com/stianfan)
 <img src="https://github.com/stianfan/GruvBit/raw/main/Screenshot.png" alt="GruvBit" width="768"/>
+
+## [Dark Neon](https://github.com/dariolupo/dark-neon_bitwig) by [@dariolupo](https://github.com/dariolupo)
+<img src="https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%2050.png" alt="Dark Neon" width="768"/>
