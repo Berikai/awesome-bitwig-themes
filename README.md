@@ -12,12 +12,6 @@ You can create a pull request or create an issue with your github repository to 
 ## [Dark Mellow](https://github.com/dariolupo/dark-mellow_bitwig) by [@dariolupo](https://github.com/dariolupo)
 <img src="https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Screenshot.jpg" alt="Dark Mellow" width="768"/>
 
-## [Medium Blue](https://github.com/Berikai/bitwig-theme-editor/tree/master/themes) by [@berikai](https://github.com/berikai)
-<img src="https://github.com/Berikai/bitwig-theme-editor/blob/master/themes/medium_blue.png" alt="Medium Blue" width="768"/>
-
-## [Dark Red](https://github.com/Berikai/bitwig-theme-editor/tree/master/themes) by [@berikai](https://github.com/berikai)
-<img src="https://github.com/Berikai/bitwig-theme-editor/blob/master/themes/dark_red.png" alt="Dark Red" width="768"/>
-
 ## [GruvBit](https://github.com/stianfan/GruvBit) by [@stianfan](https://github.com/stianfan)
 <img src="https://github.com/stianfan/GruvBit/raw/main/Screenshot.png" alt="GruvBit" width="768"/>
 
