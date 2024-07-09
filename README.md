@@ -20,3 +20,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Frost](https://github.com/ibsenproducer/Frost-bitwig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
 <img src="https://camo.githubusercontent.com/a6b565b2f7fdfe5f860b8d3bdbd0d049e720d4cef4e98e7a247b65a080d8c804/68747470733a2f2f692e696d6775722e636f6d2f56466c793748462e706e67" alt="Frost" width="768"/>
+
+## [LogWig](https://github.com/ibsenproducer/LogWig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
+<img src="https://camo.githubusercontent.com/c3efca2ef6418092972aba6101da7e5d618567d764e9cbf3209bb04cb6462527/68747470733a2f2f692e696d6775722e636f6d2f4c4f724645566b2e706e67" alt="LogWig" width="768"/>
