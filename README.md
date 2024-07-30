@@ -23,3 +23,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [LogWig](https://github.com/ibsenproducer/LogWig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
 <img src="https://camo.githubusercontent.com/c3efca2ef6418092972aba6101da7e5d618567d764e9cbf3209bb04cb6462527/68747470733a2f2f692e696d6775722e636f6d2f4c4f724645566b2e706e67" alt="LogWig" width="768"/>
+
+## [Magnetic Revival](https://github.com/mradziwanowski/magentic-revival-bitwig-theme) by [@mradziwanowski](https://github.com/mradziwanowski)
+<img src="https://github.com/mradziwanowski/magentic-revival-bitwig-theme/raw/master/example.png" alt="Magnetic Revival" width="768"/>
