@@ -29,3 +29,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Macchiato](https://github.com/lenninst/Macchiato_BitwigTheme.git) by [@lenninst](https://github.com/lenninst)
 <img src="https://raw.githubusercontent.com/lenninst/Macchiato_BitwigTheme/main/macchiato.png" alt="Macchiato" width="768"/>
+
+## [MothWig](https://github.com/woodmoth/mothwig-bitwig-theme) by [@woodmoth](https://github.com/woodmoth)
+<img src="https://github.com/woodmoth/mothwig-bitwig-theme/blob/main/Prewiev.png" alt="MothWig" width="768"/>
