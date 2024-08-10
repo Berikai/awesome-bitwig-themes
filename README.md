@@ -26,3 +26,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Magnetic Revival](https://github.com/mradziwanowski/magentic-revival-bitwig-theme) by [@mradziwanowski](https://github.com/mradziwanowski)
 <img src="https://github.com/mradziwanowski/magentic-revival-bitwig-theme/raw/master/example.png" alt="Magnetic Revival" width="768"/>
+
+## [MothWig](https://github.com/woodmoth/mothwig-bitwig-theme) by [@woodmoth](https://github.com/woodmoth)
+<img src="https://github.com/woodmoth/mothwig-bitwig-theme/blob/main/Prewiev.png" alt="MothWig" width="768"/>
