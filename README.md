@@ -32,3 +32,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [MothWig](https://github.com/woodmoth/mothwig-bitwig-theme) by [@woodmoth](https://github.com/woodmoth)
 <img src="https://github.com/woodmoth/mothwig-bitwig-theme/blob/main/Prewiev.png" alt="MothWig" width="768"/>
+
+## [Nord](https://github.com/lenninst/Nord_BitwigTheme.git) by [@lenninst](https://github.com/lenninst)
+<img src="https://raw.githubusercontent.com/lenninst/Nord_BitwigTheme/main/img/Nord_BitwigTheme.png" alt="Nord" width="768"/>
