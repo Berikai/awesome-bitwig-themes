@@ -19,10 +19,10 @@ You can create a pull request or create an issue with your github repository to 
 <img src="https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%2050.png" alt="Dark Neon" width="768"/>
 
 ## [Frost](https://github.com/ibsenproducer/Frost-bitwig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
-<img src="https://camo.githubusercontent.com/a6b565b2f7fdfe5f860b8d3bdbd0d049e720d4cef4e98e7a247b65a080d8c804/68747470733a2f2f692e696d6775722e636f6d2f56466c793748462e706e67" alt="Frost" width="768"/>
+<img src="https://camo.githubusercontent.com/35ffe4d448fc1d08ad75070e72c1e2cfbf3a1730f7e4358b717421aa5cf071e2/68747470733a2f2f692e696d6775722e636f6d2f56466c793748462e706e67" alt="Frost" width="768"/>
 
 ## [LogWig](https://github.com/ibsenproducer/LogWig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
-<img src="https://camo.githubusercontent.com/c3efca2ef6418092972aba6101da7e5d618567d764e9cbf3209bb04cb6462527/68747470733a2f2f692e696d6775722e636f6d2f4c4f724645566b2e706e67" alt="LogWig" width="768"/>
+<img src="https://camo.githubusercontent.com/5c82cd02f85edbc69cfe727fee5cebd6068162ed2341189306a8da767abafec4/68747470733a2f2f692e696d6775722e636f6d2f4c4f724645566b2e706e67" alt="LogWig" width="768"/>
 
 ## [Magnetic Revival](https://github.com/mradziwanowski/magentic-revival-bitwig-theme) by [@mradziwanowski](https://github.com/mradziwanowski)
 <img src="https://github.com/mradziwanowski/magentic-revival-bitwig-theme/raw/master/example.png" alt="Magnetic Revival" width="768"/>
@@ -35,3 +35,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Nord](https://github.com/lenninst/Nord_BitwigTheme.git) by [@lenninst](https://github.com/lenninst)
 <img src="https://raw.githubusercontent.com/lenninst/Nord_BitwigTheme/main/img/Nord_BitwigTheme.png" alt="Nord" width="768"/>
+
+## [Horizon](https://github.com/PatrickWulfe/horizon-bitwig-theme) by [@PatrickWulfe](https://github.com/PatrickWulfe)
+<img src="https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/53c14b9b6130e1094bdf64093d7e5414de8b570d/screenshots/Screenshot%202024-09-01%20010344.png?raw=true" alt="Horizon" width="768" />
