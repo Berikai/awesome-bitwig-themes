@@ -39,5 +39,5 @@ You can create a pull request or create an issue with your github repository to 
 ## [Horizon](https://github.com/PatrickWulfe/horizon-bitwig-theme) by [@PatrickWulfe](https://github.com/PatrickWulfe)
 <img src="https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/53c14b9b6130e1094bdf64093d7e5414de8b570d/screenshots/Screenshot%202024-09-01%20010344.png?raw=true" alt="Horizon" width="768" />
 
-## [Light Cat](https://codeberg.org/themefiend/bitwig-light-mode) by [@themefeind](https://codeberg.org/themefiend)
+## [Light Cat](https://codeberg.org/themefiend/bitwig-light-cat) by [@themefeind](https://codeberg.org/themefiend)
 <img src="https://codeberg.org/themefiend/bitwig-light-cat/media/branch/main/screenshots/arr.png" alt="Horizon" width="768" />
