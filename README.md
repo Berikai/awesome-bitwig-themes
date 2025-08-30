@@ -6,6 +6,9 @@ This repository is a collection of Bitwig Studio themes that is made with [Bitwi
 
 You can create a pull request or create an issue with your github repository to add your theme to this list.
 
+## [LightNordish : Bitwig 6 / Bitwig 5](https://codeberg.org/pmhn/bitwig-light-nordish) by [@pmhn](https://codeberg.org/pmhn)
+<img src="https://codeberg.org/pmhn/bitwig-light-nordish/media/branch/main/resources/light-nordish-bitwig-6-theme.png" alt="LightNordish" width="768"/>
+
 ## [Ghosty](https://github.com/notoyz/ghosty-theme-bitwig) by [@notoyz](https://github.com/notoyz)
 <img src="https://github.com/notoyz/ghosty-theme-bitwig/blob/main/extra/screenshots/dark.png" alt="Ghosty" width="768"/>
 
