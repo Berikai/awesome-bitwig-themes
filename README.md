@@ -44,3 +44,6 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Cubitwig](https://github.com/Yucatec98/cubase-bitwig-theme) by [@Yucatec98](https://github.com/Yucatec98)
 <img src="https://raw.githubusercontent.com/Yucatec98/cubase-bitwig-theme/8c0a074856f8029e6514cdae3f4e6496c2d17ee8/images/Cubitwig.jpg" alt="Cubitwig" width="768" />
+
+## [LightNordish](https://codeberg.org/pmhn/bitwig-light-nordish) by [@pmhn](https://codeberg.org/pmhn)
+<img src="https://codeberg.org/pmhn/bitwig-light-nordish/media/branch/main/resources/light-nordish-bitwig-6-theme.png" alt="LightNordish" width="768"/>
