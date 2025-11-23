@@ -47,3 +47,7 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [LightNordish](https://codeberg.org/pmhn/bitwig-light-nordish) by [@pmhn](https://codeberg.org/pmhn)
 <img src="https://codeberg.org/pmhn/bitwig-light-nordish/media/branch/main/resources/light-nordish-bitwig-6-theme.png" alt="LightNordish" width="768"/>
+
+##
+[Dracula](https://github.com/sleeplessKomodo/bitwig-dracula-theme) by [@sleeplessKomodo](https://github.com/sleeplessKomodo)
+<img src="https://raw.githubusercontent.com/sleeplessKomodo/bitwig-dracula-theme/refs/heads/main/images/dracula.png" alt="Dracula" width="768"/>
