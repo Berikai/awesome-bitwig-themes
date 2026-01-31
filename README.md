@@ -8,11 +8,11 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Ghosty](https://github.com/notoyz/ghosty-theme-bitwig) by [@notoyz](https://github.com/notoyz)
 <!-- RAW: https://raw.githubusercontent.com/notoyz/ghosty-theme-bitwig/refs/heads/main/ghosty.json -->
-<img src="https://github.com/notoyz/ghosty-theme-bitwig/blob/main/extra/screenshots/dark.png" alt="Ghosty" width="768"/>
+<img src="https://github.com/notoyz/ghosty-theme-bitwig/raw/main/extra/screenshots/dark.png" alt="Ghosty" width="768"/>
 
 ## [Dark Mellow](https://github.com/dariolupo/dark-mellow_bitwig) by [@dariolupo](https://github.com/dariolupo)
 <!-- RAW: [NOT_AVAILABLE] -->
-<img src="https://github.com/dariolupo/dark-mellow_bitwig/blob/main/Screenshots/Dark%20Mellow%20-%20Screenshot.jpg" alt="Dark Mellow" width="768"/>
+<img src="https://github.com/dariolupo/dark-mellow_bitwig/raw/main/Screenshots/Dark%20Mellow%20-%20Screenshot.jpg" alt="Dark Mellow" width="768"/>
 
 ## [GruvBit](https://github.com/stianfan/GruvBit) by [@stianfan](https://github.com/stianfan)
 <!-- RAW: https://raw.githubusercontent.com/stianfan/GruvBit/refs/heads/main/GruvBit.json -->
@@ -20,7 +20,7 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Dark Neon](https://github.com/dariolupo/dark-neon_bitwig) by [@dariolupo](https://github.com/dariolupo)
 <!-- RAW: [NOT_AVAILABLE] -->
-<img src="https://github.com/dariolupo/dark-neon_bitwig/blob/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%2050.png" alt="Dark Neon" width="768"/>
+<img src="https://github.com/dariolupo/dark-neon_bitwig/raw/main/Screenshots/Dark%20Neon%20-%20Screenshot%200%2050.png" alt="Dark Neon" width="768"/>
 
 ## [Frost](https://github.com/ibsenproducer/Frost-bitwig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
 <!-- RAW: https://raw.githubusercontent.com/ibsenproducer/Frost-bitwig-theme/refs/heads/main/frost.json -->
@@ -40,7 +40,7 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [MothWig](https://github.com/woodmoth/mothwig-bitwig-theme) by [@woodmoth](https://github.com/woodmoth)
 <!-- RAW: https://raw.githubusercontent.com/woodmoth/mothwig-bitwig-theme/refs/heads/main/mothwig-theme-basic.json -->
-<img src="https://github.com/woodmoth/mothwig-bitwig-theme/blob/main/Prewiev.png" alt="MothWig" width="768"/>
+<img src="https://github.com/woodmoth/mothwig-bitwig-theme/raw/main/Prewiev.png" alt="MothWig" width="768"/>
 
 ## [Nord](https://github.com/lenninst/Nord_BitwigTheme) by [@lenninst](https://github.com/lenninst)
 <!-- RAW: https://raw.githubusercontent.com/lenninst/Nord_BitwigTheme/refs/heads/main/nord.json -->
@@ -48,7 +48,7 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Horizon](https://github.com/PatrickWulfe/horizon-bitwig-theme) by [@PatrickWulfe](https://github.com/PatrickWulfe)
 <!-- RAW: https://raw.githubusercontent.com/PatrickWulfe/horizon-bitwig-theme/refs/heads/main/horizon.bte -->
-<img src="https://github.com/PatrickWulfe/horizon-bitwig-theme/blob/53c14b9b6130e1094bdf64093d7e5414de8b570d/screenshots/Screenshot%202024-09-01%20010344.png?raw=true" alt="Horizon" width="768" />
+<img src="https://github.com/PatrickWulfe/horizon-bitwig-theme/raw/53c14b9b6130e1094bdf64093d7e5414de8b570d/screenshots/Screenshot%202024-09-01%20010344.png?raw=true" alt="Horizon" width="768" />
 
 ## [Light Cat](https://codeberg.org/themefiend/bitwig-light-cat) by [@themefeind](https://codeberg.org/themefiend)
 <!-- RAW: https://codeberg.org/themefiend/bitwig-light-cat/raw/branch/main/Light%20Cat.json -->
