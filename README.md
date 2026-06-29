@@ -69,3 +69,7 @@ You can create a pull request or create an issue with your github repository to 
 ## [Cold Teal](https://github.com/OppliFel/cold-teal-bitwig-theme) by [@OppliFel](https://github.com/OppliFel)
 <!-- RAW: https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/refs/heads/main/cold-teal.bte -->
 <img src="https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/main/screenshots/cold-teal.png" alt="Cold Teal" width="768"/>
+
+## [Cold Teal HC](https://github.com/OppliFel/cold-teal-bitwig-theme) by [@OppliFel](https://github.com/OppliFel)
+<!-- RAW: https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/refs/heads/main/cold-teal-hc.bte -->
+<img src="https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/main/screenshots/cold-teal-hc.png" alt="Cold Teal HC" width="768"/>
