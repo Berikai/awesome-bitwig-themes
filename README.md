@@ -65,3 +65,11 @@ You can create a pull request or create an issue with your github repository to 
 ## [Dracula](https://github.com/sleeplessKomodo/bitwig-dracula-theme) by [@sleeplessKomodo](https://github.com/sleeplessKomodo)
 <!-- RAW: https://raw.githubusercontent.com/sleeplessKomodo/bitwig-dracula-theme/refs/heads/main/dracula.json -->
 <img src="https://raw.githubusercontent.com/sleeplessKomodo/bitwig-dracula-theme/refs/heads/main/images/dracula.png" alt="Dracula" width="768"/>
+
+## [Cold Teal](https://github.com/OppliFel/cold-teal-bitwig-theme) by [@OppliFel](https://github.com/OppliFel)
+<!-- RAW: https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/refs/heads/main/cold-teal.bte -->
+<img src="https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/main/screenshots/cold-teal.png" alt="Cold Teal" width="768"/>
+
+## [Cold Teal HC](https://github.com/OppliFel/cold-teal-bitwig-theme) by [@OppliFel](https://github.com/OppliFel)
+<!-- RAW: https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/refs/heads/main/cold-teal-hc.bte -->
+<img src="https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/main/screenshots/cold-teal-hc.png" alt="Cold Teal HC" width="768"/>
