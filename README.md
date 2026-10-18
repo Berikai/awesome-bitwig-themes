@@ -73,3 +73,7 @@ You can create a pull request or create an issue with your github repository to 
 ## [Cold Teal HC](https://github.com/OppliFel/cold-teal-bitwig-theme) by [@OppliFel](https://github.com/OppliFel)
 <!-- RAW: https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/refs/heads/main/cold-teal-hc.bte -->
 <img src="https://raw.githubusercontent.com/OppliFel/cold-teal-bitwig-theme/main/screenshots/cold-teal-hc.png" alt="Cold Teal HC" width="768"/>
+
+## [Graphite](https://github.com/notgabriels-sys/bitwig-themes) by [@notgabriels-sys](https://github.com/notgabriels-sys)
+<!-- RAW: [NOT_AVAILABLE] -->
+<img src="https://raw.githubusercontent.com/notgabriels-sys/bitwig-themes/refs/heads/main/assets/host-6.1.4/porcelain.jpg" alt="Graphite" width="768"/>
