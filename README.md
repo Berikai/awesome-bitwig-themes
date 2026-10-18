@@ -24,11 +24,11 @@ You can create a pull request or create an issue with your github repository to 
 
 ## [Frost](https://github.com/ibsenproducer/Frost-bitwig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
 <!-- RAW: https://raw.githubusercontent.com/ibsenproducer/Frost-bitwig-theme/refs/heads/main/frost.json -->
-<img src="https://camo.githubusercontent.com/35ffe4d448fc1d08ad75070e72c1e2cfbf3a1730f7e4358b717421aa5cf071e2/68747470733a2f2f692e696d6775722e636f6d2f56466c793748462e706e67" alt="Frost" width="768"/>
+<img src="https://i.imgur.com/VFly7HF.png" alt="Frost" width="768"/>
 
 ## [LogWig](https://github.com/ibsenproducer/LogWig-theme) by [@ibsenproducer](https://github.com/ibsenproducer)
 <!-- RAW: [NOT_AVAILABLE] -->
-<img src="https://camo.githubusercontent.com/5c82cd02f85edbc69cfe727fee5cebd6068162ed2341189306a8da767abafec4/68747470733a2f2f692e696d6775722e636f6d2f4c4f724645566b2e706e67" alt="LogWig" width="768"/>
+<img src="https://i.imgur.com/LOrFEVk.png" alt="LogWig" width="768"/>
 
 ## [Magnetic Revival](https://github.com/mradziwanowski/magentic-revival-bitwig-theme) by [@mradziwanowski](https://github.com/mradziwanowski)
 <!-- RAW: https://raw.githubusercontent.com/mradziwanowski/magnetic-revival-bitwig-theme/refs/heads/master/mr-theme.json -->
